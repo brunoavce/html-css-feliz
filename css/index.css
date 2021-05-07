@@ -2,6 +2,10 @@ header {
     background-color: #62C370;
 }
 
+nav {
+    text-align: right;
+}
+
 a {
     color:#fff;
     font-size: 20px;    
@@ -14,8 +18,8 @@ a {
 #button {
     display: inline-block;
     background-color: #7C5E99;
-    height: 60px;
-    line-height: 60px;
+    padding-top: 18px;
+    padding-bottom: 18px;
     padding-left: 20px;
     padding-right: 20px;
     box-shadow: 5px 5px 0px #000;
